@@ -49,5 +49,14 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeDevillers/vue-marquee.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeDevillers/vue-marquee/issues"
+  },
+  "homepage": "https://github.com/JeromeDevillers/vue-marquee#readme"
 }
