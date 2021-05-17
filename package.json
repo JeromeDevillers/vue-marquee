@@ -1,5 +1,5 @@
 {
-  "name": "@jeromedevillers/vue-marquee",
+  "name": "vue-marquee",
   "version": "0.0.1",
   "author": "Devillers Jerome <devillers.jerome@gmail.com> (http://jeromedevillers.com)",
   "description": "A simple marquee for you website.",
