@@ -1,7 +1,14 @@
 {
   "name": "vue-marquee",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "author": "Devillers Jerome <devillers.jerome@gmail.com> (http://jeromedevillers.com)",
+  "description": "A simple marquee for you website.",
+  "keywords": [
+    "marquee",
+    "vue",
+    "alert",
+    "message"
+  ],
   "main": "dist/vue-marquee.ssr.js",
   "browser": "dist/vue-marquee.esm.js",
   "module": "dist/vue-marquee.esm.js",
