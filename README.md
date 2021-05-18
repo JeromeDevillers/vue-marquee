@@ -1,4 +1,4 @@
-# vue-marquee
+# vue-marquee-header
 
 A simple marquee for your website.
 
@@ -12,7 +12,7 @@ A simple marquee for your website.
 ## 🛠️ Installation
 
 ```bash
-npm install vue-marquee
+npm i vue-marquee-header
 ```
 
 ## 🚀 Usage
