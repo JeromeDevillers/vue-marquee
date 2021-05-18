@@ -18,7 +18,7 @@ npm install vue-marquee
 ## 🚀 Usage
 
 ```javascript
-import VueMarquee from 'vue-marquee';
+import VueMarquee from 'vue-marquee-header';
 
 <vue-marquee animate="0" content="Enter your text content here"></vue-marquee>
 ```
